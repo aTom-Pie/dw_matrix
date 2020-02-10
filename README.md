@@ -3,8 +3,7 @@
 
 https://dataworkshop.eu/matrix
 
-Każdy może zostać analitykiem danych!*
-*jeśli ma na to ochotę
+Każdy może zostać analitykiem danych! (jeśli ma na to ochotę)
 
 
 ### PAMIĘTAJ, JESTEŚ W MATRIXIE
